@@ -3,6 +3,9 @@ If you're reading this, you're witnessing the beginning of my Python learning ex
 
 Purpose of this Repository
 The main goals of this repository include:
+
 Tracking Progress: Documenting the topics and concepts covered in Python.
+
 Sharing Resources: Providing insights into the learning resources I find helpful.
+
 Building a Portfolio: Showcasing my evolving coding skills through Python projects.
