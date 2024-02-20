@@ -10,8 +10,9 @@ for num in range(1,100):
   info = f"The Age is {age}. The Address is {address}"
   fake_info[name]= info
 
-for key, value  in fake_info.items():
-  print(f"The Name {key} ==> {value}")
+with open('file1.txt','w') as FileWr:
+  for key, value  in fake_info.items():
+    FileWr.write(f"The Name {key} ==> {value}\n")
 
 
 
